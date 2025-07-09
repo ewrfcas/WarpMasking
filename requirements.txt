@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+einops
+kornia
+cupy
+opencv-contrib-python>=3.4.0
+numpy==1.26.4
