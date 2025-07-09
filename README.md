@@ -7,7 +7,7 @@ The main idea come from "3D-aware Image Generation using 2D Diffusion Models" (I
 <img src="assets/forward-backward-warp.jpg" alt="teaser" width="500">
 
 ## TODO List
-- [] Replacing `cupy` in `softmax_splatting` with other methods (the building of `cupy` is so slow).
+- [ ] Replacing `cupy` in `softmax_splatting` with other methods (the building of `cupy` is so slow).
 
 ## Setup
 
